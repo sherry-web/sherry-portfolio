@@ -4148,14 +4148,18 @@ html {
   background-position: 0 0, 100% 0;
   background-size: auto, 670px;
 }
-.scanner-hero-image {
+.postofficedigital-hero{
   background-color: #eef0f5;
-  background-image: url("https://uploads-ssl.webflow.com/62c4d6b807b33c9201ee513c/62e8825fbdfe03020cc79f31_ScannerPro_Main.png");
+  background-image: url("Assets/postofficedigital assets/postoffice-hero.png");
   background-position: 50% 60%;
   background-repeat: no-repeat;
   background-size: 1470px;
   border-radius: 16px;
   margin: 16px 16px 0;
+}
+
+.spacer {
+  height: 15px; /* Adjust this value to match the desired gap height */
 }
 
 .energon-hero-image {
@@ -4296,7 +4300,6 @@ html {
   margin-left: 16px;
   margin-right: 16px;
 }
-
 
 .project-info {
   padding-top: 50px;
